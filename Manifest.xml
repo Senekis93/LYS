@@ -13,5 +13,6 @@
     <suggests>
     </suggests>
     <showCrossPromotions>true</showCrossPromotions>
+	<manifestUri>https://github.com/Senekis93/LYS/blob/master/Manifest.xml</manifestUri>
 	<downloadUri>https://github.com/Senekis93/LYS/blob/master/LYS.rar</downloadUri>
 </Manifest>
