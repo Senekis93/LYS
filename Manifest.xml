@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+    <identifier>LYS</identifier>
+    <version>1.0.1</version>
+    <dependencies>
+    </dependencies>
+    <incompatibleWith>
+    </incompatibleWith>
+    <loadBefore>        
+    </loadBefore>
+    <loadAfter>
+    </loadAfter>
+    <suggests>
+    </suggests>
+    <showCrossPromotions>true</showCrossPromotions>
+	<downloadUri>https://github.com/Senekis93/LYS/blob/master/LYS.rar</downloadUri>
+</Manifest>
